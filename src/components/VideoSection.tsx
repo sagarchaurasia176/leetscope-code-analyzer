@@ -1,7 +1,7 @@
 
 const VideoSection = () => {
   return (
-    <section className='w-full min-h-screen bg-gradient-to-b from-gray-900 to-black'>
+    <section className='w-full h-full  bg-gradient-to-b from-gray-900 to-black'>
       <div className='container mx-auto px-4 py-16'>
         <div className='text-center mb-12'>
           <h1 className='text-4xl md:text-6xl font-bold text-white mb-4 tracking-tight'>
